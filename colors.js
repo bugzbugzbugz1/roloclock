@@ -1,5 +1,5 @@
 const LIGHT_COLORS = ['#d0fdb1', '#90fca4', '#a9ffed', '#b5ffd4'];
-const DARK_COLORS = ['#cc8bc6', '#cf9279', '#de9fa7', '#81c8de', '#a791e1'];
+const DARK_COLORS = ['#cc8bc6', '#cf9279', '#de9fa7', '#81c8de', '#a791e1', '#b30047'];
 const DARK_FONT_COLOR = '#565f59';
 const LIGHT_FONT_COLOR = '#fffef9';
 
